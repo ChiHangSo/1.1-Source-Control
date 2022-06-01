@@ -1,0 +1,27 @@
+1. https://github.com/MiguelVis/2048.git
+
+- I found this git every interesting, ever since I knew about the game of 2048, I've been interested in
+how the system goes with this hard yet simple system between the two. Even though it's a clone I think this
+brings out it's characteristics of the game. A game like this people forget how the simple games were made
+and looking back at this, will definitely show how games were made back then.
+
+2. https://github.com/ManoloiuAlexandru/Popular-games-and-Small-projects.git
+
+- I chose this as my second choice because nowadays simple games like these won't be played often, blackjack
+is an exception but that exception is that it's not really casual played. I've done the blackjack game in PG2
+but there are other games here that let me see games like Hangman and how it was programmed.
+
+3. https://github.com/rosbel/TicTacToeWithFriends.git
+
+- TicTacToe, a classic game. I feel like if given the time and dedication to actually learn the ropes of
+learning to program TicTacToe with windows form I feel like I can make a game. Reasoning on this is that
+I can create a game and send it to my friends to play a game I coded.
+
+4. https://github.com/gameplay3d/gameplay.git
+
+- I found this repo interesting because later on the month my team and I will be making a game engine, so
+exploring this genre this far would do me good and follow some steps from those programmers that were in my
+shoes.
+
+5. https://github.com/kzielinskiwsei/gitignore2.git
+- This repo shows what gitignore does and gives me more information about it.
